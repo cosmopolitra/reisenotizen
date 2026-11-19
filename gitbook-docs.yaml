@@ -1,10 +1,10 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Cosmopolitra Docs
+  title: Reisenotizen
   structure:
     - type: space
       key: space-1
-      title: Documentation
+      title: Reisenotizen
       path: documentation
       default: true
       content:
