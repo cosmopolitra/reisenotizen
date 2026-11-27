@@ -5,3 +5,4 @@
 * [A Quiet Day by Lake Kawaguchi: Flowers, Fuji, and Room to Breathe](a-quiet-day-by-lake-kawaguchi-flowers-fuji-and-room-to-breathe.md)
 * [Jeju by Stages: A Route from Volcanic Heights to Southern Falls](jeju-by-stages-a-route-from-volcanic-heights-to-southern-falls.md)
 * [Cahir Castle: A Stone Fortress, a River Island, and 800 Years of Stories](cahir-castle-a-stone-fortress-a-river-island-and-800-years-of-stories.md)
+* [Kranjska Gora Beyond the Slopes: A Journey Through Lakes, Passes, and Alpine History](kranjska-gora-beyond-the-slopes-a-journey-through-lakes-passes-and-alpine-history.md)
