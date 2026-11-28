@@ -7,3 +7,4 @@
 * [Cahir Castle: A Stone Fortress, a River Island, and 800 Years of Stories](cahir-castle-a-stone-fortress-a-river-island-and-800-years-of-stories.md)
 * [Kranjska Gora Beyond the Slopes: A Journey Through Lakes, Passes, and Alpine History](kranjska-gora-beyond-the-slopes-a-journey-through-lakes-passes-and-alpine-history.md)
 * [Kein Platz mehr für Dinge? Ein Weihnachtsgeschenk, das Wien von einer neuen Seite zeigt](kein-platz-mehr-fuer-dinge-ein-weihnachtsgeschenk-das-wien-von-einer-neuen-seite-zeigt.md)
+* [The Three-Month City: Finding a Place Where Remote Work and Real Life Fit](the-three-month-city-finding-a-place-where-remote-work-and-real-life-fit.md)
